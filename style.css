@@ -88,6 +88,31 @@ margin-top: 15%;
     width: 350px;
     margin-top: 2px;
     }
+    .next-p img{
+        width: 350px;
+        height: 400px;
+      
+        margin-left: 500px;
+    }
+    .next-p h2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+    .next-p h4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+    .next-p h6{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+    }
+
                 /*MOBILE VIEW */
 
  @media  screen and ( max-width: 600px){
